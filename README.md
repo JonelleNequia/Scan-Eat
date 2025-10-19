@@ -1,4 +1,4 @@
-[Main.dart](https://github.com/JonelleNequia/Scan-Eat/blob/main/Main.dart)
+###[Main.dart](https://github.com/JonelleNequia/Scan-Eat/blob/main/Main.dart)
 Delete mo yung previous code mo sa main.dart then copy mo yung main.dart code dito sa github and paste mo sa android studio mo
 
 ### 📁 Dito mo ilalagay yung assets folder

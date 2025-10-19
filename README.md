@@ -1,7 +1,3 @@
-## 📂 Project Directory Structure
-
-Below is the recommended structure of the project for better maintainability and readability:
-
 ScanEat/
 ├─ android/                  - Android native files (Manifest, Gradle, etc.)
 ├─ ios/                      - iOS native files

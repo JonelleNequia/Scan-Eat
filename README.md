@@ -9,3 +9,7 @@ AndroidStudioProjects/
 ├─ Add mo yung folder na assets
 ```
 
+### 👀Logo and Background image
+para sa logo and background image.
+sa pubspec.yaml add mo lang yung code dun sa android studio mo
+

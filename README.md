@@ -21,3 +21,4 @@ ScanEat/
 ├─ test/                       # Unit and widget tests
 ├─ pubspec.yaml              # Project dependencies and asset registration
 └─ README.md                # Project documentation (this file)
+

@@ -1,0 +1,17 @@
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  assets:
+    - assets/food.png
+    - assets/facebook.png
+    - assets/google.png
+    - assets/icon/scaneat_logo.png
+
+flutter_launcher_icons:
+  android: true
+  image_path: assets/icon/scaneat_logo.png
+  adaptive_icon_background: "#FFFFFFFF"
+  adaptive_icon_foreground: assets/icon/scaneat_logo.png

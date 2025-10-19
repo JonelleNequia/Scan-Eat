@@ -1,25 +1,11 @@
-### 📁 Project Directory Structure
+### Main.Dart
+Delete mo yung previous code mo sa main.dart then copy mo yung main.dart code dito sa github and paste mo sa android studio mo
+
+### 📁 Dito mo ilalagay yung assets folder
 
 ```
-ScanEat/
-├─ android/
-├─ ios/
-├─ lib/
-│  ├─ main.dart
-│  ├─ screens/
-│  ├─ widgets/
-│  ├─ models/
-│  └─ services/
-│
-├─ assets/
-│  ├─ icon/
-│  │   └─ scaneat_logo.png
-│  ├─ images/
-│  │   └─ background.png
-│  └─ fonts/
-│
-├─ test/
-├─ pubspec.yaml
-└─ README.md
+AndroidStudioProjects/
+├─ Project Name or SCANEAT/
+├─ Add mo yung folder na assets
 ```
-fasdfs
+

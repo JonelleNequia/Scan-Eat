@@ -10,7 +10,7 @@ AndroidStudioProjects/
 ```
 
 ### 👀Logo and Background image
-### [pubspec.yaml] (https://github.com/JonelleNequia/Scan-Eat/blob/main/pubspecs.yaml)
+### [pubspec.yaml](https://github.com/JonelleNequia/Scan-Eat/blob/main/pubspecs.yaml)
 para sa logo and background image.
 sa pubspec.yaml add mo lang yung code dun sa android studio mo
 

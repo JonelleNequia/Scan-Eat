@@ -1,3 +1,5 @@
+### 📁 Project Directory Structure
+
 ScanEat/
 ├─ android/                  - Android native files (Manifest, Gradle, etc.)
 ├─ ios/                      - iOS native files
